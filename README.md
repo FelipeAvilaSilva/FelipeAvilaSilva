@@ -2,15 +2,15 @@ Olá, Sejam bem-vindos 👋
 
   Me chamo Felipe e atualmente eu sou ...
 
-- 🔭 ... Graduando em Engenharia de Computação.
-- 🌱 ... Desenvolvedor Front-End Trainee.
+- 🖥 ... Graduando em Engenharia de Computação.
+- 🧐 ... Desenvolvedor Front-End Trainee.
 - 😄 ... Jogador nas horas vagas.
 
 
 <div align="center">
   <a href="https://github.com/FelipeAvilaSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAvilaSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAvilaSilva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAvilaSilva&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAvilaSilva&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
 <div style="display: inline_block"><br>
   <!--
