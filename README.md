@@ -3,7 +3,7 @@ Olá, Sejam bem-vindos 👋
   Me chamo Felipe e atualmente eu sou ...
 
 - 🖥 ... Graduando em Engenharia de Computação.
-- 🧐 ... Desenvolvedor Front-End Trainee.
+- 🧐 ... Estudando Front-End.
 - 😄 ... Jogador nas horas vagas.
 
 
