@@ -2,9 +2,10 @@ Olá, Sejam bem-vindos 👋
 
   Me chamo Felipe e atualmente eu sou ...
 
-- 🖥 ... Graduando em Engenharia de Computação.
+- 🖥  ... Graduando em Engenharia de Computação.
+- 😎 ... Desenvolvedor de Software Embarcado.
 - 🧐 ... Estudando Front-End.
-- 😄 ... Jogador nas horas vagas.
+- 😄 ... Gamer e skatista nas horas vagas.
 
 
 <div align="center">
