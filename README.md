@@ -4,8 +4,8 @@ Olá, Sejam bem-vindos 👋
 
 - 🖥  ... Graduando em Engenharia de Computação.
 - 😎 ... Desenvolvedor de Software Embarcado.
-- 🧐 ... Estudando Front-End.
-- 😄 ... Gamer e skatista nas horas vagas.
+- 🧐 ... Atualmente estudando Front-End.
+- 😄 ... Gamer e Skatista nas horas vagas.
 
 
 <div align="center">
