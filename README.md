@@ -3,7 +3,7 @@ Olá, Sejam bem-vindos 👋
   Me chamo Felipe e atualmente eu sou ...
 
 - 🖥  ... Graduando em Engenharia de Computação.
-- 😎 ... Desenvolvedor de Software Embarcado.
+- 😎 ... Desenvolvedor de Software Embarcado na HidroSens.
 - 🧐 ... Estudando também Front-End.
 - 😄 ... Gamer e Skatista nas horas vagas.
 
