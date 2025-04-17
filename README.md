@@ -1,11 +1,11 @@
-Olá, Sejam bem-vindos 👋
+Olá, sejam bem-vindos! 👋
 
-  Me chamo Felipe e atualmente eu sou ...
+🖥️ Engenheiro de Computação
+🧠 Focado em Microeletrônica
+🌐 Aprendendo Front-End também
+🎮 Gamer & Skatista nas horas vagas
 
-- 🖥  ... Graduando em Engenharia de Computação.
-- 😎 ... Desenvolvedor de Software Embarcado na HidroSens.
-- 🧐 ... Estudando também Front-End.
-- 😄 ... Gamer e Skatista nas horas vagas.
+Ao longo da minha trajetória, desenvolvi plataformas de monitoramento ambiental em tempo real e projetos com amplificadores operacionais voltados para instrumentação.
 
 
 <div align="center">
