@@ -1,9 +1,11 @@
 Olá, sejam bem-vindos! 👋
 
-🖥️ Engenheiro de Computação
-🧠 Focado em Microeletrônica
-🌐 Aprendendo Front-End também
-🎮 Gamer & Skatista nas horas vagas
+
+-🖥️ Engenheiro de Computação
+-🧠 Focado em Microeletrônica
+-🌐 Aprendendo Front-End também
+-🎮 Gamer & Skatista nas horas vagas
+
 
 Ao longo da minha trajetória, desenvolvi plataformas de monitoramento ambiental em tempo real e projetos com amplificadores operacionais voltados para instrumentação.
 
